@@ -5,7 +5,9 @@ const page=()=>
     return (
         <>
    <div>Hello user</div>
-<div>Hello user</div></>
+<div>Hello user</div>
+<div>Hello user</div>
+</>
     )
 }
 
