@@ -6,7 +6,7 @@ const page=()=>
         <>
    <div>Hello user</div>
 <div>Hello user</div>
-<div>Hello user</div>
+
 </>
     )
 }
